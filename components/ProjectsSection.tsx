@@ -25,10 +25,10 @@ const projects = [
     title: "DAO Governance Platform",
     description: "Decentralized autonomous organization platform enabling community governance, proposal creation, and token-based voting.",
     image: "🏛️",
-    status: "Completed" as const,
+    status: "In Progress" as const,
     technologies: ["Vue.js", "Solidity", "Ethers.js", "The Graph", "Aragon"],
-    githubUrl: "https://github.com/Madhusahitya/DAO-VOTING",
-    liveUrl: "https://chainvoting.netlify.app/",
+    githubUrl: "https://github.com/Madhusahitya/DAOVote",
+  
   },
   {
     title: "Crypto Landing Page from Figma",
